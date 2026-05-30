@@ -37,7 +37,7 @@ The backend delivery of crypto/fiat was **not fully implemented** – this is a 
 This project is no longer live, but you can watch a **3‑minute video walkthrough** (desktop recording) and view screenshots (mobile screenshots):
 
 - [▶️ Video Walkthrough (YouTube)](https://youtu.be/your-video-id)
-- [📄 Screenshots PDF](/screenshots.pdf) (in this repo)
+- [📄 Screenshots PDF](https://raw.githubusercontent.com/robotboy-exe/wordpress-crypto-concept/main/screenshots.pdf) (in this repo)
 
 ## 📁 Repo Contents
 
